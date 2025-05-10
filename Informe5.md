@@ -26,7 +26,7 @@ Estas tecnologías permiten una solución ágil para el despliegue de aplicacion
 
 ## 4. Conocimientos previos
 
-Para realizar esta práctica el estudiante necesita tener claros los siguientes temas:
+Para realizar esta práctica se  necesita tener claros los siguientes temas:
 
 - Manejo de la línea de comandos en Windows (PowerShell).
 - Fundamentos de virtualización con Docker.
@@ -119,7 +119,7 @@ wordpress
 
 ## 9. Resultados esperados
 
-Al completar esta práctica, el usuario debe poder ingresar desde el navegador a:
+Al completar esta práctica, se debe poder ingresar desde el navegador a:
 
 * [http://localhost:8000](http://localhost:8000): Página de instalación de WordPress
 * [http://localhost:8080](http://localhost:8080): Panel de control de phpMyAdmin
